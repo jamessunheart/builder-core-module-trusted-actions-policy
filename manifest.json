@@ -1,0 +1,6 @@
+{
+  "name": "trusted_actions_policy",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
